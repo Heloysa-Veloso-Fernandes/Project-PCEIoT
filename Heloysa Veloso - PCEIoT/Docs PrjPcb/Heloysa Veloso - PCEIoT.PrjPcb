@@ -67,7 +67,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AUUEOYWJ
 
 [Document2]
 DocumentPath=Libraries\PCEIOT.SCHLIB
@@ -291,23 +291,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document15]
-DocumentPath=PCB1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VRJCXAVD
-
-[Document16]
 DocumentPath=Sources\[8] Conectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -324,7 +307,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=Heloysa Veloso - PCEIoT.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -341,6 +324,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document17]
+DocumentPath=PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RXCWLSFX
+
+[Document18]
+DocumentPath=Sources\Drafsman.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QBYBMUDZ
+
 [ProjectVariant1]
 UniqueId=8765c7dd-07ee-4c5b-95fb-4c89f79c45c7
 Description=Fabricação
@@ -356,6 +373,10 @@ Variation6=Designator=DISP1|UniqueId=\NPCLFZCX\CRWEFBVH|Kind=1|AlternatePart=
 Variation7=Designator=J1|UniqueId=\NPCLFZCX\RVPNENHB|Kind=1|AlternatePart=
 Variation8=Designator=J2|UniqueId=\NPCLFZCX\YKLDOBKK|Kind=1|AlternatePart=
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Heloysa Veloso - PCEIoT\Design Rule Check - PCB1.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=Version
